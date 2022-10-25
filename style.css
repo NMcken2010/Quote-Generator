@@ -1,0 +1,54 @@
+body{
+  background-color: rgb(86, 78, 79);
+}
+#main{
+  background-color: black;
+  width: fit-content;
+  height: 100vh;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+h1{
+  color: white;
+  font-family: cursive;
+  background-color: rgb(9, 130, 139);
+  padding: 20px;
+  width: fit-content;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+p{
+  color: white;
+  font-family: cursive;
+  font-size: 25px; 
+  margin-top: 15px;
+}
+.quotes{
+  background-color: black;
+  border: 5px double white;
+  margin-top: 60px;
+  height: auto;
+  padding: 15px;
+  border-radius: 5px;
+  display:flex;
+  flex-direction: column;
+}
+.quote{
+  color: white;
+  font-size: 25px;
+}
+.author{
+  color: white;
+  font-style: italic;
+}
+.btn{
+  color: white;
+  background-color: grey;
+  margin-top: 25px;
+  width: fit-content;
+  margin: 0 auto;
+}
+a{
+  margin-top: 10px;
+}
